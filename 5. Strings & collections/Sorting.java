@@ -17,5 +17,6 @@ public class Sorting {
       System.out.println(integer);
     }
 
+    sc.close();
   }
 }
