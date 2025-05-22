@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "2. Inheritance & Interfaces",
     "1. OOPS concepts",
-    "2. Inheritance & Interfaces"
+    "3. Exception handling"
   ]
 }
