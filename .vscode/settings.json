@@ -1,8 +1,9 @@
 {
   "java.project.sourcePaths": [
+    "4. Multithreading",
     "3. Exception handling",
     "2. Inheritance & Interfaces",
     "1. OOPS concepts",
-    "4. Multithreading"
+    "5. Strings & collections"
   ]
 }
