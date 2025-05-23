@@ -1,10 +1,11 @@
 {
   "java.project.sourcePaths": [
+    "6. Swing",
     "5. Strings & collections",
     "4. Multithreading",
     "3. Exception handling",
     "2. Inheritance & Interfaces",
     "1. OOPS concepts",
-    "6. Swing"
+    "7. Package & File I/O"
   ]
 }
