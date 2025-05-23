@@ -1,5 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "morePractice/multithreading",
+    "8. Adv Topics",
     "7. Package & File I/O",
     "6. Swing",
     "5. Strings & collections",
@@ -7,6 +9,6 @@
     "3. Exception handling",
     "2. Inheritance & Interfaces",
     "1. OOPS concepts",
-    "8. Adv Topics"
+    ""
   ]
 }
